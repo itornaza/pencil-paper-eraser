@@ -1,2 +1,2 @@
-# pencil-paper-eraser
+# Pencil-Paper-Eraser
 Pencil-Paper-Eraser
