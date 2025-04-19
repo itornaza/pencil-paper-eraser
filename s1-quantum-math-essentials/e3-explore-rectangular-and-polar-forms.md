@@ -11,9 +11,9 @@ z_1 \pm z_2=(x_1 \pm x_2)+i \cdot (y_1 \pm y_2)
 \end{equation} $$
 
 ## Polar
-$$ \begin{equation} \begin{align*}
+$$ \begin{equation}
 x=r \cdot \cos{(θ)} ,\quad  y=r \cdot \sin{(θ)}
-\end{align*} \end{equation} $$
+\end{equation} $$
 
 $$ \begin{equation}  
 θ=r \cdot \arctan(\frac{y}{x}) 
