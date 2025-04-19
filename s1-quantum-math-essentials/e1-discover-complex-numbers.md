@@ -2,9 +2,7 @@
 
 ## Quadratic equation
 ```math
-\begin{align}
 αx^2+βx+γ=0 , \quad Δ=β^2-4αγ \tag{1}
-\end{align}
 ```
 
 ### i) $Δ=0$:
