@@ -1,10 +1,9 @@
 # s1.e1 - Discover Complex Numbers
 
 ## Quadratic equation
-$$ \begin{equation} 
-αx^2+βx+γ=0 , \quad Δ=β^2-4αγ \\
-\tag{1}
-\end{equation} $$
+$$
+αx^2+βx+γ=0 , \quad Δ=β^2-4αγ \tag{1} 
+$$
 
 ### i) $Δ=0$:
 $$ \begin{equation}
