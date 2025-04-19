@@ -1,51 +1,58 @@
-# S1E2 - Master Euler's Formula
+# s1.e2 - Master Euler's Formula
 
-## Power series
-$$
-sin(θ)=θ-\frac{θ^3}{3!}+\frac{θ^5}{5!}-\frac{θ^7}{7!}+...
-$$
+## Maclaurin series
 
-$$
-cos(θ)=1-\frac{θ^2}{2!}+\frac{θ^4}{4!}-\frac{θ^6}{6!}+...
-$$
+$$ \begin{equation} 
+sin{(θ)}=θ-\frac{θ^3}{3!}+\frac{θ^5}{5!}-\frac{θ^7}{7!}+ \ldots =\\
+\sum_{n=0}^{\infty} \frac{(-1)^n θ^{(2n+1)}}{(2n+1)!}
+\end{equation} $$
 
-$$
-e^θ=1+\frac{θ^2}{2!}+\frac{θ^3}{3!}+\frac{θ^4}{4!}+\frac{θ^5}{5!}+\frac{θ^6}{6!}+\frac{θ^7}{7!}...
-$$
+$$ \begin{equation} 
+cos{(θ)}=1-\frac{θ^2}{2!}+\frac{θ^4}{4!}-\frac{θ^6}{6!}+ \ldots = \\
+\sum_{n=0}^{\infty} \frac{(-1)^n θ^{2n}}{(2n)!}
+\end{equation} $$
+
+$$ \begin{equation} 
+e^θ=1+\frac{θ^2}{2!}+\frac{θ^3}{3!}+\frac{θ^4}{4!}+\frac{θ^5}{5!}+\frac{θ^6}{6!}+\frac{θ^7}{7!}+ \ldots = \\
+\sum_{n=0}^{\infty} \frac{θ^n}{n!}
+\end{equation} $$
 
 ## Powers of i
-$$i^1=\sqrt{-1}=i$$
-$$i^2=-1$$
-$$i^3=-i$$
-$$i^4=1$$
-$$i^5=i$$
-$$i^6=-1$$
-$$i^7=-i$$
+
+$$ \begin{equation} \begin{array}{c}
+i^1=i ,\quad i^2=-1 ,\quad i^3=-i ,\quad i^4=1 , \\
+i^5=i ,\quad i^6=-1 ,\quad i^7=-i ,\quad i^8=1 , \\ 
+\ldots
+\end{array} \end{equation} $$
 
 ## Euler's formula
-$$
-e^{iθ}=cos(θ)+isin(θ)
-$$
+
+$$ \begin{equation} 
+e^{iθ}=cos{(θ)}+isin{(θ)}
+\end{equation} $$
 
 ## Euler's identity
-$$
+
+$$ \begin{equation} 
 e^{iθ}+1=0
-$$
+\end{equation} $$
 
 ## Trigonometry sidenote
-$$
-cos(-θ)=cos(θ)
-$$
 
-$$
-sin(-θ)=-sin(θ)
-$$
+$$ \begin{equation} 
+cos{(-θ)}=cos{(θ)}
+\end{equation} $$
+
+$$ \begin{equation} 
+sin{(-θ)}=-sin{(θ)}
+\end{equation} $$
 
 ## Trigonometric functions
-$$
-sin(θ)=\frac{e^{iθ}-e^{-iθ}}{2i}
-$$
 
-$$
-cos(θ)=\frac{e^{iθ}+e^{-iθ}}{2}
-$$
+$$ \begin{equation} 
+cos{(θ)}=\frac{e^{iθ}+e^{-iθ}}{2}
+\end{equation} $$
+
+$$ \begin{equation} 
+sin{(θ)}=\frac{e^{iθ}-e^{-iθ}}{2i}
+\end{equation} $$
