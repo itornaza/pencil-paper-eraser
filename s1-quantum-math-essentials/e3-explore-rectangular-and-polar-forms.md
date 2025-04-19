@@ -5,7 +5,9 @@
 ```math
 z=x+i \cdot y \\
 \tag{1}
+```
 
+```math
 z_1 \pm z_2=(x_1 \pm x_2)+i \cdot (y_1 \pm y_2) \\
 \tag{2}
 ```
