@@ -6,40 +6,34 @@
 ```
 
 ### i) $Δ=0$:
-$$ \begin{equation}
-x = \frac{-β}{2α} \\
-\tag{2}
-\end{equation} $$
+```math
+x = \frac{-β}{2α} \tag{2}
+```
 
 ### ii) $Δ>0$:
-$$ \begin{equation}
-x=\frac{-β\pm\sqrt{Δ}}{2α} \\
-\tag{3}
-\end{equation} $$
+```math
+x=\frac{-β\pm\sqrt{Δ}}{2α} \tag{3}
+```
 
 ### iii) $Δ<0$:
-$$ \begin{equation}
-x =\frac{-β\pm i\sqrt{|Δ|}}{2α} \\
-\tag{4}
-\end{equation} $$
+```math
+x =\frac{-β\pm i\sqrt{|Δ|}}{2α} \tag{4}
+```
 
-$$ \begin{equation}
-Re(x)=\frac{-β}{2α} \\
-\tag{5}
-\end{equation} $$
+```math
+Re(x)=\frac{-β}{2α} \tag{5}
+```
 
-$$ \begin{equation}
-Im(x)=\frac{\sqrt{|Δ|}}{2α} \\
-\tag{6}
-\end{equation} $$
+```math
+Im(x)=\frac{\sqrt{|Δ|}}{2α} \tag{6}
+```
 
 ## Imaginary numbers
-$$ \begin{equation}
-i=\sqrt{-1} \\
-\tag{7}
-\end{equation} $$
 
-$$ \begin{equation}
-i^2=-1 \\
-\tag{8}
-\end{equation} $$
+```math
+i=\sqrt{-1} \tag{7}
+```
+
+```math
+i^2=-1 \tag{8}
+```
