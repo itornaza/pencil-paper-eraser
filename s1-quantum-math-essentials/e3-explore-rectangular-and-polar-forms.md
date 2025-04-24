@@ -64,7 +64,7 @@ z^n=r^n \cdot (\cos{(n \cdot θ)}+i \cdot \sin{(n \cdot θ)}) \\
 ```
 
 ```math
-z^\frac{1}{n}=\sqrt[n]{r} \cdot (\cos{(\frac{θ}{n})})+i \cdot \sin{(\frac{θ}{n})} \\
+z^\frac{1}{n}=\sqrt[n]{r} \cdot (\cos{(\frac{θ}{n})}+i \cdot \sin{(\frac{θ}{n}))} \\
 \tag{12}
 ```
 
